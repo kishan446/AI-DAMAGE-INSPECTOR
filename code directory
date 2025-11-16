@@ -1,1 +1,9 @@
+ai-damage-inspector/
+├── README.md
+├── requirements.txt
+├── main.py
+├── assets/
+│   └── test.jpg
+└── templates/
+    └── index.html
 
